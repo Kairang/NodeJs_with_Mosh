@@ -1,0 +1,27 @@
+{
+    "name": "nodejs_with_mosh",
+    "version": "1.0.0",
+    "description": "learning nodejs with course of mosh!!",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Kairang/NodeJs_with_Mosh.git"
+    },
+    "keywords": [
+        "Nodejs",
+        "Mosh",
+        "Kairang"
+    ],
+    "author": "Kairang",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Kairang/NodeJs_with_Mosh/issues"
+    },
+    "homepage": "https://github.com/Kairang/NodeJs_with_Mosh#readme",
+    "dependencies": {
+        "underscore": "^1.13.6"
+    }
+}
